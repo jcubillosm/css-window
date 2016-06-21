@@ -1,0 +1,15 @@
+.frame{
+	border: 0.375em solid grey;
+	height: 25em;
+	width: 12.5em;
+}
+
+.up-frame{
+	border: 0.2em solid green;
+	height: 12.125em;
+}
+
+.down-frame{
+	border: 0.2em solid blue;
+	height: 12.125em;
+}
